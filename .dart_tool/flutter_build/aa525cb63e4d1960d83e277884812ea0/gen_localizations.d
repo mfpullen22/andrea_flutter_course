@@ -1,0 +1,1 @@
+ /Users/umn-pullen/Desktop/Flutter/andrea_course/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/umn-pullen/Desktop/Flutter/andrea_course/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/umn-pullen/Desktop/Flutter/andrea_course/l10n.yaml /Users/umn-pullen/Desktop/Flutter/andrea_course/lib/src/localization/app_en.arb
